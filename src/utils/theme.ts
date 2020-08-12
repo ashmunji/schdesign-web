@@ -8,7 +8,7 @@ const theme = {
   },
   space: [0, 4, 8, 16, 32, 64, 128, 256, 512].map(value => `${value / 16}rem`),
   fonts: {
-    sans: 'Lato, system-ui, sans-serif',
+    sans: 'Montserrat, system-ui, sans-serif',
     mono: 'monospace',
   },
   fontWeights: {

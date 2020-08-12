@@ -9,7 +9,7 @@ import NavLink from './NavLink';
 import schdesignLogoSrc from '../assets/schdesign-logo.svg';
 
 const Header = () => (
-  <Box as="header" bg="darkgray" color="#959d9a">
+  <Box as="header" bg="darkgray" color="#13252f">
     <Flex
       as={Container}
       flexDirection={['column', 'row']}
