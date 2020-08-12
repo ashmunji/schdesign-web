@@ -18,12 +18,7 @@ const Header = () => (
       my={2}
     >
       <GatsbyLink to="/">
-        
-
-        <Text>
-            Ashwini Munji
-       </Text>
-
+        Ashwini Munji
       </GatsbyLink>
 
       <Box as="nav" my={2}>
