@@ -4,7 +4,7 @@ const theme = {
   breakpoints: [545, 1024, 1440, 1920],
   colors: {
     red: '#FDFFFC',
-    darkgray: '#000000',
+    darkgray: '#FDFFFC',
   },
   space: [0, 4, 8, 16, 32, 64, 128, 256, 512].map(value => `${value / 16}rem`),
   fonts: {
