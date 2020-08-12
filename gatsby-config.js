@@ -25,7 +25,7 @@ module.exports = {
         name: 'Ashwini Munji Blog',
         short_name: 'ashblog',
         start_url: '/',
-        background_color: '#3d3d3d',
+        background_color: '#FDFFFC',
         theme_color: '#f8485e',
         display: 'standalone',
         icon: 'src/assets/favicon.png',
