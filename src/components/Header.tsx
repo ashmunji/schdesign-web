@@ -18,13 +18,7 @@ const Header = () => (
       my={2}
     >
       <GatsbyLink to="/">
-        <!-- <Image
-          src={schdesignLogoSrc}
-          alt="schdesign"
-          height="2em"
-          my={2}
-          css="display: block;"
-        /> -->
+        
 
         <Text>
             Ashwini Munji
