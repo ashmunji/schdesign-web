@@ -18,13 +18,18 @@ const Header = () => (
       my={2}
     >
       <GatsbyLink to="/">
-        <Image
+        <!-- <Image
           src={schdesignLogoSrc}
           alt="schdesign"
           height="2em"
           my={2}
           css="display: block;"
-        />
+        /> -->
+
+        <Text>
+            Ashwini Munji
+       </Text>
+
       </GatsbyLink>
 
       <Box as="nav" my={2}>
