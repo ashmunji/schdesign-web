@@ -5,7 +5,7 @@ import Container from './Container';
 
 const Footer = () => (
   <Box as="footer" bg="darkgray" color="#959d9a">
-    <Text id="footer_works"textAlign="center" pt={4}>
+    <Text id="footer_works"textAlign="center" pt={2}>
       All rights reserved
     </Text>
   </Box>
