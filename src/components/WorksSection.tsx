@@ -7,7 +7,7 @@ import Section, { Props } from './Section';
 const WorksSection = (props: Props) => (
   <Section {...props}>
     <Heading id="works" textAlign="center" py={4}>
-      Munkáink
+      Works
     </Heading>
 
     <StaticQuery
