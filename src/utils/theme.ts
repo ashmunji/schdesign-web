@@ -4,7 +4,7 @@ const theme = {
   breakpoints: [545, 1024, 1440, 1920],
   colors: {
     red: '#FDFFFC',
-    darkgray: '#FDFFFC',
+    darkgray: '#000000',
   },
   space: [0, 4, 8, 16, 32, 64, 128, 256, 512].map(value => `${value / 16}rem`),
   fonts: {
@@ -22,7 +22,7 @@ const theme = {
     padding: '0.125em 0',
     textDecoration: 'none',
     'p &:hover': {
-      background: '#FDFFFC',
+      background: '#333333',
       color: 'white',
     },
   },
