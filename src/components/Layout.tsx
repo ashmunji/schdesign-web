@@ -72,7 +72,7 @@ const Layout = ({ children }: Props) => (
             />
 
             <link
-              href="https://fonts.googleapis.com/css?family=Lato:wght@300|Roboto+Mono:500"
+              href="https://fonts.googleapis.com/css?family=Montserrat:300|Roboto+Mono:500"
               rel="stylesheet"
             />
           </Helmet>
