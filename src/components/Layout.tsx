@@ -84,7 +84,6 @@ const Layout = ({ children }: Props) => (
       <Box as="main" flex={1}>
         {children}
       </Box>
-
       <Footer />
     </Flex>
   </ThemeProvider>
