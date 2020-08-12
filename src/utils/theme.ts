@@ -3,8 +3,8 @@ import { Heading, Link } from 'rebass';
 const theme = {
   breakpoints: [545, 1024, 1440, 1920],
   colors: {
-    red: '#f8485e',
-    darkgray: '#3d3d3d',
+    red: '#FDFFFC',
+    darkgray: '#FDFFFC',
   },
   space: [0, 4, 8, 16, 32, 64, 128, 256, 512].map(value => `${value / 16}rem`),
   fonts: {
