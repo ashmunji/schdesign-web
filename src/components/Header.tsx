@@ -52,7 +52,7 @@ const Header = () => (
                     ml={i !== 0 ? [4, 5] : null}
                     css="display: inline-block;"
                   >
-                    <a style= {{padding: '0.3em', textDecoration: 'none', fontFamily: 'Montserrat', color: '#333333'}} href = {node.url}> {node.title}</a>
+                    <a style= {{padding: '0.3em', textDecoration: 'none', fontFamily: 'Montserrat', color: '#333333', textTransform: 'lowercase'}} href = {node.url}> {node.title}</a>
                   </ListItem>
                 ),
               )
