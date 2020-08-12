@@ -7,7 +7,6 @@ import WorksSection from '../components/WorksSection';
 
 const IndexPage = () => (
   <Layout>
-    <AboutSection />
     {/* Uncomment to add courses, edit in data/courses.yml */}
     {/* <CourseSection /> */}
     <WorksSection variant="dark" />
