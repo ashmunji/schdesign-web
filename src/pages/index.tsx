@@ -10,7 +10,6 @@ const IndexPage = () => (
     {/* Uncomment to add courses, edit in data/courses.yml */}
     {/* <CourseSection /> */}
     <WorksSection variant="dark" />
-    <ContactSection my={[4, 5]} />
   </Layout>
 );
 
