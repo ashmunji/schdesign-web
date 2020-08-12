@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: 'Schönherz Design Stúdió',
-    description: 'A Simonyi Károly Szakkollégium kreatív alkotóműhelye.',
-    language: 'hu',
-    email: 'hello@schdesign.hu',
-    siteBehanceURL: 'https://www.behance.net/wearethesds/',
-    siteFacebookURL: 'https://www.facebook.com/schonherzdesignstudio/',
-    siteInstagramURL: 'https://www.instagram.com/schdesign.hu/',
+    title: 'Ashwini Munji Blog',
+    description: 'Ashwini Munji Blog',
+    language: 'en',
+    email: 'hello@spacenarrative.com',
+    siteBehanceURL: '',
+    siteFacebookURL: '',
+    siteInstagramURL: '',
   },
   plugins: [
     {
@@ -22,8 +22,8 @@ module.exports = {
       resolve: 'gatsby-plugin-manifest',
       options: {
         /* eslint-disable @typescript-eslint/camelcase */
-        name: 'Schönherz Design Stúdió',
-        short_name: 'schdesign',
+        name: 'Ashwini Munji Blog',
+        short_name: 'ashblog',
         start_url: '/',
         background_color: '#3d3d3d',
         theme_color: '#f8485e',
