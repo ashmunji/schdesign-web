@@ -52,9 +52,7 @@ const Header = () => (
                     ml={i !== 0 ? [4, 5] : null}
                     css="display: inline-block;"
                   >
-                    <NavLink as={GatsbyLink} to={node.url} p={2}>
-                      {node.title}
-                    </NavLink>
+                    <a href = {node.url}> {node.title}</a>
                   </ListItem>
                 ),
               )
