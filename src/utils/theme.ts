@@ -22,7 +22,7 @@ const theme = {
     padding: '0.125em 0',
     textDecoration: 'none',
     'p &:hover': {
-      background: '#f8485e',
+      background: '#FDFFFC',
       color: 'white',
     },
   },

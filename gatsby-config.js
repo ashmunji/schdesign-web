@@ -26,7 +26,7 @@ module.exports = {
         short_name: 'ashblog',
         start_url: '/',
         background_color: '#FDFFFC',
-        theme_color: '#f8485e',
+        theme_color: '#FDFFFC',
         display: 'standalone',
         icon: 'src/assets/favicon.png',
         legacy: true,
