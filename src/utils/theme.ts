@@ -12,10 +12,10 @@ const theme = {
     mono: 'monospace',
   },
   fontWeights: {
-    bold: 600,
+    bold: 100,
   },
   Heading: {
-    fontWeight: 500,
+    fontWeight: 100,
     textTransform: 'lowercase',
   },
   Link: {
